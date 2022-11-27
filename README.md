@@ -1,2 +1,2 @@
-# Curso-Lenguaje-C
+# Primeros pasos en C
 Desarrollo de Software mediante Lenguaje C
