@@ -1,2 +1,2 @@
-# First steps in c
+# First steps in C
 Software development using C language
