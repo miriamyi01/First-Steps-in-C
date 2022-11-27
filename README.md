@@ -1,2 +1,2 @@
-# Primeros pasos en C
-Desarrollo de Software mediante Lenguaje C
+# First steps in c
+Software development using C language
